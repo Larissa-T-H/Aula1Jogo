@@ -1,0 +1,16 @@
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\CSharpBasico\ConsoleApp1Aula1jogo\bin\Debug\net5.0\ConsoleApp1Aula1jogo.exe
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\CSharpBasico\ConsoleApp1Aula1jogo\bin\Debug\net5.0\ConsoleApp1Aula1jogo.deps.json
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\CSharpBasico\ConsoleApp1Aula1jogo\bin\Debug\net5.0\ConsoleApp1Aula1jogo.runtimeconfig.json
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\CSharpBasico\ConsoleApp1Aula1jogo\bin\Debug\net5.0\ConsoleApp1Aula1jogo.runtimeconfig.dev.json
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\CSharpBasico\ConsoleApp1Aula1jogo\bin\Debug\net5.0\ConsoleApp1Aula1jogo.dll
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\CSharpBasico\ConsoleApp1Aula1jogo\bin\Debug\net5.0\ConsoleApp1Aula1jogo.pdb
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\CSharpBasico\ConsoleApp1Aula1jogo\obj\Debug\net5.0\ConsoleApp1Aula1jogo.csproj.AssemblyReference.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\CSharpBasico\ConsoleApp1Aula1jogo\obj\Debug\net5.0\ConsoleApp1Aula1jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\CSharpBasico\ConsoleApp1Aula1jogo\obj\Debug\net5.0\ConsoleApp1Aula1jogo.AssemblyInfoInputs.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\CSharpBasico\ConsoleApp1Aula1jogo\obj\Debug\net5.0\ConsoleApp1Aula1jogo.AssemblyInfo.cs
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\CSharpBasico\ConsoleApp1Aula1jogo\obj\Debug\net5.0\ConsoleApp1Aula1jogo.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\CSharpBasico\ConsoleApp1Aula1jogo\obj\Debug\net5.0\ConsoleApp1Aula1jogo.dll
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\CSharpBasico\ConsoleApp1Aula1jogo\obj\Debug\net5.0\refint\ConsoleApp1Aula1jogo.dll
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\CSharpBasico\ConsoleApp1Aula1jogo\obj\Debug\net5.0\ConsoleApp1Aula1jogo.pdb
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\CSharpBasico\ConsoleApp1Aula1jogo\obj\Debug\net5.0\ConsoleApp1Aula1jogo.genruntimeconfig.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\CSharpBasico\ConsoleApp1Aula1jogo\obj\Debug\net5.0\ref\ConsoleApp1Aula1jogo.dll

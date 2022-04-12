@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleApp1Aula1jogo/1.0.0": {
+        "runtime": {
+          "ConsoleApp1Aula1jogo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp1Aula1jogo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
